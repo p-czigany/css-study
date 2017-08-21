@@ -17,3 +17,7 @@ p:last-child {
 p:first-child {
   border-top: none;
 }
+
+p:hover {
+  background-color: #ec6842;
+}
