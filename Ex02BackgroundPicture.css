@@ -6,17 +6,24 @@ p {
   margin-bottom: 8px;
   text-align: center;
   font: 16px courier;
+  background-image: url(duck.png);
+  background-repeat: no-repeat;
 }
 
 .orange {
   background-color: #ff5318;
+  background-position: left;
+  background-size: 30%;
 }
 
 .purple {
   background-color: #6b007c;
-  background-image: url(duck.png);
+  background-position: center;
+  background-size: 60%;
 }
 
 .grey {
   background-color: #7f7f7f;
+  background-position: right bottom;
+  background-size: 25%;
 }
