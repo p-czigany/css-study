@@ -1,0 +1,19 @@
+div {
+  margin: 23px 0px 0px 40px;
+}
+
+p {
+  border: 2px black solid;
+  padding: 20px;
+  width: 300px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+
+p:last-child {
+  border-bottom: none;
+}
+
+p:first-child {
+  border-top: none;
+}
