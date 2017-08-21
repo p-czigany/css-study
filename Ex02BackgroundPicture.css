@@ -1,0 +1,22 @@
+p {
+  color: white;
+  width: 224px;
+  padding: 20px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-align: center;
+  font: 16px courier;
+}
+
+.orange {
+  background-color: #ff5318;
+}
+
+.purple {
+  background-color: #6b007c;
+  background-image: url(duck.png);
+}
+
+.grey {
+  background-color: #7f7f7f;
+}
